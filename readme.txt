@@ -1,8 +1,7 @@
 === Genesis Enews Block ===
-block:             de-witte-prins/genesis-enews-block
 Contributors:      hanswitteprins
 Donate link:       https://dewitteprins.nl
-Tags:              enews, optin, newsletter
+Tags:              block, enews, optin, newsletter
 Requires at least: 5.8.0
 Requires PHP:      7.0
 Tested up to:      5.8.0
