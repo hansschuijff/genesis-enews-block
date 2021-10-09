@@ -1,4 +1,5 @@
 === Genesis Enews Block ===
+block:             de-witte-prins/genesis-enews-block
 Contributors:      hanswitteprins
 Donate link:       https://dewitteprins.nl
 Tags:              enews, optin, newsletter
