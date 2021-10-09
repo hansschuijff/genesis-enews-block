@@ -1,19 +1,16 @@
 === Genesis Enews Block ===
-Contributors:      The WordPress Contributors
-Tags:              block
+Contributors:      Hans Schuijff
+Tags:              enews, optin, newsletter
 Tested up to:      5.8.0
 Stable tag:        0.1.0
-License:           GPL-2.0-or-later
+License:           GPLv2
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 
-Example block written with ESNext standard and JSX support – build step required.
+A block version of the genesis eNews Extended widget.
 
 == Description ==
 
-This is the long description. No limit, and you can use Markdown (as well as in the following sections).
-
-For backwards compatibility, if this section is missing, the full length of the short description will be used, and
-Markdown parsed.
+Just install and activate the plugin and you can add an optin form anywhere a block can be added.
 
 == Installation ==
 

@@ -1,7 +1,6 @@
 {
-	"apiVersion": 2,
+	"apiVersion": '2',
 	"name": "de-witte-prins/genesis-enews-block",
-	"version": "0.1.0",
 	"title": "Genesis eNews Block",
 	"category": "widgets",
 	"icon": "smiley",
