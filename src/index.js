@@ -25,7 +25,7 @@ import save from './save';
  *
  * @see https://developer.wordpress.org/block-editor/reference-guides/block-api/block-registration/
  */
-registerBlockType('create-block/genesis-enews-block', {
+registerBlockType('de-witte-prins/genesis-enews-block', {
 	/**
 	 * @see ./edit.js
 	 */
