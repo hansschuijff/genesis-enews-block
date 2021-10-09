@@ -1,0 +1,24 @@
+{
+	"apiVersion": 2,
+	"name": "create-block/genesis-enews-block",
+	"version": "0.1.0",
+	"title": "Genesis eNews Block",
+	"category": "widgets",
+	"icon": "smiley",
+	"description": "A block equivalent of the genesis eNews Extended widget.",
+	"attributes": {
+		"name": {
+			"type": "string"
+		},
+		"email": {
+			"type": "string"
+		}
+	},
+	"supports": {
+		"html": false
+	},
+	"textdomain": "genesis-enews-block",
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}
